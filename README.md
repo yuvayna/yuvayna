@@ -13,16 +13,16 @@ typedef struct {
 } Person;
 
 void details(Person p) {
-    printf("Hello, my name is eerie\n", p.username);
+    printf("Hello, my name is yuvayna\n", p.username);
     printf("I'm independent developer for the moment/n", p.job);
     printf("I'm currently working on lot's of projects in defferents languages", p.codingLanguages);
 }
 
 int main() {
     Person me;
-    strcpy(me.username, "eerieweb");
-    strcpy(me.job, "Independent developer");
-    strcpy(me.codingLanguages, "C,JS,HTML,CSS..");
+    strcpy(me.username, "yuvayna");
+    strcpy(me.job, "Independent developer/pentester");
+    strcpy(me.codingLanguages, "C,,Lua,JS,HTML,CSS..");
 
     details(me);
     return 0;
@@ -32,6 +32,6 @@ int main() {
 Also
 
 ```c
-Hello, my name is eerieweb
+Hello, my name is Kayli
 I'm an Independent passionate developer 
-I'm currently working with C, Javascript and HTML
+I'm currently working on Roblox / Discord Project for my Studio @Obscura Studio
