@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**yuvayna/yuvayna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Helle there :wave:
 
-Here are some ideas to get you started:
+### My C description :
+```c
+#include <stdio.h>
+#include <string.h>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+typedef struct {
+    char username[50];
+    char job[50];
+    char codingLanguages[50];
+} Person;
+
+void details(Person p) {
+    printf("Hello, my name is eerie\n", p.username);
+    printf("I'm independent developer for the moment/n", p.job);
+    printf("I'm currently working on lot's of projects in defferents languages", p.codingLanguages);
+}
+
+int main() {
+    Person me;
+    strcpy(me.username, "eerieweb");
+    strcpy(me.job, "Independent developer");
+    strcpy(me.codingLanguages, "C,JS,HTML,CSS..");
+
+    details(me);
+    return 0;
+}
+```
+
+Also
+
+```c
+Hello, my name is eerieweb
+I'm an Independent passionate developer 
+I'm currently working with C, Javascript and HTML
