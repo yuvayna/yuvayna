@@ -37,4 +37,6 @@ I'm an Independent passionate developer
 I'm currently working on Roblox / Discord Project for my Studio @Obscura Studio
 ```
 
-[![generate animation](https://github.com/yuvayna/yuvayna/actions/workflows/snake.yml/badge.svg)](https://github.com/yuvayna/yuvayna/actions/workflows/snake.yml)
+![Commit Snake Game](https://raw.githubusercontent.com/yuvayna/yuvayna/output/github-contribution-grid-snake-dark.svg)
+
+
