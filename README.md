@@ -1,7 +1,6 @@
 ## Helle there :wave:
 
-![status](https://api.statusbadges.me/badge/status/284320682144169988?simple=true) ![playing](https://api.statusbadges.me/badge/playing/284320682144169988) ![vscode](https://api.statusbadges.me/badge/vscode/284320682144169988) [![spotify](https://api.statusbadges.me/badge/spotify/284320682144169988)](https://api.statusbadges.me/openspotify/284320682144169988)
-
+![status](https://api.statusbadges.me/badge/status/284320682144169988?simple=true&style=for-the-badge)  ![playing](https://api.statusbadges.me/badge/playing/284320682144169988?style=for-the-badge) ![vscode](https://api.statusbadges.me/badge/vscode/284320682144169988?style=for-the-badge) [![spotify](https://api.statusbadges.me/badge/spotify/284320682144169988?style=for-the-badge)](https://api.statusbadges.me/openspotify/284320682144169988) ![intellij](https://api.statusbadges.me/badge/intellij/284320682144169988?style=for-the-badge)
 ### My C description :
 ```c
 #include <stdio.h>
