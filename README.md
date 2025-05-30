@@ -1,5 +1,6 @@
-
 ## Helle there :wave:
+
+![status](https://api.statusbadges.me/badge/status/284320682144169988?simple=true) ![playing](https://api.statusbadges.me/badge/playing/284320682144169988) ![vscode](https://api.statusbadges.me/badge/vscode/284320682144169988) [![spotify](https://api.statusbadges.me/badge/spotify/284320682144169988)](https://api.statusbadges.me/openspotify/284320682144169988)
 
 ### My C description :
 ```c
