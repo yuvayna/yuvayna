@@ -15,7 +15,7 @@ typedef struct {
 void details(Person p) {
     printf("Hello, my name is yuvayna\n", p.username);
     printf("I'm independent developer for the moment/n", p.job);
-    printf("I'm currently working on lot's of projects in defferents languages", p.codingLanguages);
+    printf("I'm currently working on lot's of projects in defferents languages (OBCURA Studio)", p.codingLanguages);
 }
 
 int main() {
